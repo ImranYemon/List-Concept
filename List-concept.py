@@ -1,0 +1,20 @@
+# My_list= [input("enter your list value :")]
+# print(My_list)
+
+Fruit = []
+print(type(Fruit))
+f1= input("enter your fruit 1 :")
+Fruit.append(f1)
+f2= input("enter your fruit 2 :")
+Fruit.append(f2)
+f3= input("enter your fruit 3 :")
+Fruit.append(f3)
+f4= input("enter your fruit 4 :")
+Fruit.append(f4)
+f5= input("enter your fruit 5 :")
+Fruit.append(f5)
+f6= input("enter your fruit 6 :")
+Fruit.append(f6)
+f7= input("enter your fruit 7 :")
+Fruit.append(f7)
+print(Fruit)
